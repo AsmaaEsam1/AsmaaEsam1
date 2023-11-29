@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asmaa Esam
-- 👀 I’m interested in Mobile Developement By React Native
-- 🌱 I’m currently learning JavaScript and React Native 
+- 👀 I’m interested in Mobile development by React Native
+- 🌱 I’m currently learning JavaScript, Typescript and React Native 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
