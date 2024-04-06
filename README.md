@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asmaa Esam
 - 👀 I’m interested in Mobile development by React Native
-- 🌱 I’m currently learning JavaScript, Typescript, and React Native 
-- 💞️ I’m looking to collaborate on with other developers 
+- 🌱 I’m currently learning JavaScript, Typescript, Objective-C, Kotlin, and React Native 
+- 💞️ I’m looking to collaborate with other developers 
 - 📫 How to reach me asmaa.esam1333@gmail.com 
 
 <h2 align="left">Hi 👋! My name is Asmaa Esam  and I'm a Mobile Developer, from Egypt</h2>
@@ -20,6 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
