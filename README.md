@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Asmaa Esam
 - 👀 I’m interested in Mobile development by React Native
-- 🌱 I’m currently learning JavaScript, Typescript and React Native 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript, Typescript, and React Native 
+- 💞️ I’m looking to collaborate on with other developers 
+- 📫 How to reach me asmaa.esam1333@gmail.com 
 
 <h2 align="left">Hi 👋! My name is Asmaa Esam  and I'm a Mobile Developer, from Egypt</h2>
 
@@ -35,13 +35,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 <!---
 AsmaaEsam1/AsmaaEsam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
